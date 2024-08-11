@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashdeepkalia
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Concepts of Data Science
+- 🌱 I’m currently learning Python, Deep Learning, HLD, LLD & Design Patterns
 - 💞️ I’m looking to collaborate on Data Science and Data Analyitcs Projects
 - 📫 How to reach me ... Here i mentioned my email id : akashdepp1801333@gmail.com
 
